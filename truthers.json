@@ -1,0 +1,40 @@
+{
+  "Truthers": [
+    {
+      "id": 1,
+      "name": "Jeff Berwick",
+      "domain": "Cryptocurrency",
+      "style": "Funny"
+    },
+    {
+      "id": 2,
+      "name": "James Corbett",
+      "domain": "Government",
+      "style": "Informative"
+    },
+    {
+      "id": 3,
+      "name": "David Icke",
+      "domain": "Cabal",
+      "style": "Passionate"
+    },
+    {
+      "id": 4,
+      "name": "Del Bigtree",
+      "domain": "Pharma",
+      "style": "Passionate"
+    },
+    {
+      "id": 5,
+      "name": "Max Igan",
+      "domain": "Tyranny",
+      "style": "Relaxed"
+    },
+    {
+      "id": 6,
+      "name": "The Pholosopher",
+      "domain": "Anarchy",
+      "style": "Insightful"
+    }
+  ]
+}
