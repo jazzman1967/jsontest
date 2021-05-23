@@ -1,0 +1,22 @@
+{
+	"stores": [
+	{
+		"name": "Janet's Yoga Studio",
+		"services": "Yoga, Massage, Chiropractic",
+		"latitude": "43.725599",
+		"longitude": "-79.452969",
+		"phone": "705-555-9290",
+		"email": "janet@gmail.com",
+		"payments": "Visa, Debit, Cash, Monero, Bitcoin"	
+	},
+	{
+		"name": "Barry Nuts for Us",
+		"services": "Freshly Baked Goods",
+		"latitude": "43.64527778",
+		"longitude": "-79.38055556",
+		"phone": "416-555-2121",
+		"email": "barry@nuts4us.com",
+		"payments": "Visa, Cash, Debit, Mastercard"
+	}
+	]
+}
