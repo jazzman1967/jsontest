@@ -1,5 +1,5 @@
 {
-	"stores": [
+   "stores": [
 	{
 		"name": "Janet's Yoga Studio",
 		"services": "Yoga, Massage, Chiropractic",
@@ -17,6 +17,14 @@
 		"phone": "416-555-2121",
 		"email": "barry@nuts4us.com",
 		"payments": "Visa, Cash, Debit, Mastercard"
-	}
-	]
+	},
+	{
+		"name": "Sally's Hand Crafted Bowls",
+		"services": "Kitchen Wares",
+		"latitude": "47.556759",
+		"longitude": "-80.562548",
+		"phone": "705-456-9958",
+		"email": "sally@beautifulbowls.com",
+		"payments": "Monero, Dogecoin, Pirate Chain"
+   ]
 }
